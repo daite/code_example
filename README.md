@@ -3,5 +3,6 @@
 * [go-race-detector](https://golang.org/doc/articles/race_detector.html)
 * [go-defer](https://stackoverflow.com/questions/52718143/is-golang-defer-statement-execute-before-or-after-return-statement)
 * [Learning-Functional-Programming-in-Go](https://github.com/PacktPublishing/Learning-Functional-Programming-in-Go)
+* [what-are-a-files-in-go](https://stackoverflow.com/questions/15551293/what-are-a-files-in-go)
 ## Common
 * [count-loc-online](https://codetabs.com/count-loc/count-loc-online.html)
